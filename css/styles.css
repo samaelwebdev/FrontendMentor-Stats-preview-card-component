@@ -160,28 +160,31 @@ main {
   .card {
 
     background-color: var(--dark-desaturated-blue);
-    border-radius: .5rem;
+
     display: grid;
     grid-template-columns: repeat(2, 31.25rem);
     grid-template-rows: repeat(2, auto);
+    border-radius: 0;
 
 
   }
 
   .cardHeader {
     background-color: hsl(277, 64%, 61%);
-    border-radius: .5rem .5rem 0 0;
+
     max-width: 100%;
     max-height: 100%;
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 1;
     grid-row-end: 2;
+    border-radius: 0;
   }
 
   .headerImg {
     mix-blend-mode: multiply;
     opacity: .75;
+    border-radius: 0rem;
 
 
   }
@@ -194,11 +197,14 @@ main {
     grid-row-start: 1;
     grid-row-end: 2;
     margin-top: 2rem;
+
+
   }
 
 
   .numbers {
     display: flex;
+
   }
 
 
@@ -227,7 +233,7 @@ main {
   .headerImg {
     max-width: 100%;
     max-height: 100%;
-    border-radius: .5rem .5rem 0 0;
+
 
   }
 
