@@ -53,7 +53,7 @@ Users should be able to:
 
 ### What I learned
 
-Although I am now familiar with specific tools such as Flexbox and Grid I constantly find myself researching how to import fonts or add a gradient on top of an image and I've realized that I will never stop learning, however, one valuable lesson from this simple project is the importance of planning my work before beginning to code as it will make it much simpler to code and will make my code “cleaner”.
+Although I am now familiar with specific tools such as Flexbox and Grid I constantly find myself researching simple things like how to import fonts or add a gradient on top of an image and I've realized that I will never stop learning, one valuable lesson from this simple project is the importance of planning my work before beginning to code as it will make it much simpler and will make my code “cleaner”.
 
 ### Continued development
 
