@@ -18,7 +18,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
-Simple stats preview card component created using HTML CSS GRID AND FLEXBOX
+Simple stats preview card component created using HTML CSS 
 
 ### The challenge
 
